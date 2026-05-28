@@ -1,1 +1,1 @@
-you need to download exiftools at exiftools.org
+you need to download [exiftools](exiftools.org)
